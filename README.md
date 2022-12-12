@@ -1,6 +1,6 @@
 👋 Hi, I’m @rachaelesler
 
-🌱 I’m currently learning C#, WPF, .NET, Unity game development, and MicroPython. 
+🌱 I’m currently learning C#, .NET, Unity game development, and MicroPython. 
 
 <!---
 rachaelesler/rachaelesler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
